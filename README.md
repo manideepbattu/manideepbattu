@@ -33,6 +33,21 @@
 
 **Currently Exploring:** Wireshark, Nmap, Burp Suite and OWASP ZAP
 
+## 🛠️ Technologies & Tools
+
+### Programming
+![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python&logoColor=white)
+
+### Cybersecurity & Networking
+![Wireshark](https://img.shields.io/badge/Wireshark-Exploring-blue?logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Exploring-blue)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-Exploring-orange)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-Exploring-green)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-Beginner-black?logo=linux&logoColor=white)
+
+
 ## 📂 Training Assignments
 
 These are beginner-level assignments completed during cybersecurity training.
