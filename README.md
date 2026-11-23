@@ -69,6 +69,20 @@ These are beginner-level assignments completed during cybersecurity training.
 - 💼 LinkedIn: [Battu Manideep](https://www.linkedin.com/in/battu-manideep/)
 - 🐙 GitHub: [manideepbattu](https://github.com/manideepbattu)
 - 📧 Email: battumanideep99@gmail.com
+  
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manideepbattu&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manideepbattu&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manideepbattu&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
